@@ -1,6 +1,8 @@
 # Master-Mind Game
 ## Console Application
-* Homepage Desing
-* System Generate secret color code
-* Your goal is to find the secret code
-* Display the result. If you guess the correct code you WINNER, Else Loser
+* Game Initial Screen Design.
+* System generate a random 4 color secret code.
+* Your goal is to Crack the secret code.
+* Display the result after each attempt.
+* If you guess the correct code within 12 attempt,you are the WINNER, otherwise you will LOSE.
+* Score will be based on the number of attempts.
