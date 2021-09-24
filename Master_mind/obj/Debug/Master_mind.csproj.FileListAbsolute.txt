@@ -1,0 +1,6 @@
+c:\users\elcot\documents\visual studio 2012\Projects\Master_mind\Master_mind\bin\Debug\Master_mind.exe.config
+c:\users\elcot\documents\visual studio 2012\Projects\Master_mind\Master_mind\bin\Debug\Master_mind.exe
+c:\users\elcot\documents\visual studio 2012\Projects\Master_mind\Master_mind\bin\Debug\Master_mind.pdb
+c:\users\elcot\documents\visual studio 2012\Projects\Master_mind\Master_mind\obj\Debug\Master_mind.csprojResolveAssemblyReference.cache
+c:\users\elcot\documents\visual studio 2012\Projects\Master_mind\Master_mind\obj\Debug\Master_mind.exe
+c:\users\elcot\documents\visual studio 2012\Projects\Master_mind\Master_mind\obj\Debug\Master_mind.pdb
